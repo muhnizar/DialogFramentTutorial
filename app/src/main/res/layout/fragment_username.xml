@@ -12,7 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Enter user name"
-        android:id="@+id/lbl_yourname"
+        android:id="@+id/lbl_your_name"
         />
     <EditText
         android:layout_width="wrap_content"
