@@ -20,7 +20,7 @@ public class MainActivity extends Activity {
         return true;
     }
 
-
+    @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         // close existing dialog fragments
         FragmentManager manager = getFragmentManager();
